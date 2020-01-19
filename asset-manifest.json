@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/kNews-react/static/css/main.de7ce26e.chunk.css",
+    "main.js": "/kNews-react/static/js/main.d2ed5841.chunk.js",
+    "main.js.map": "/kNews-react/static/js/main.d2ed5841.chunk.js.map",
+    "runtime-main.js": "/kNews-react/static/js/runtime-main.03fca22e.js",
+    "runtime-main.js.map": "/kNews-react/static/js/runtime-main.03fca22e.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/kNews-react/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.29be7b45.chunk.js": "/kNews-react/static/js/2.29be7b45.chunk.js",
+    "static/js/2.29be7b45.chunk.js.map": "/kNews-react/static/js/2.29be7b45.chunk.js.map",
+    "index.html": "/kNews-react/index.html",
+    "precache-manifest.ef5465486d4ff86bf74113a048addd8a.js": "/kNews-react/precache-manifest.ef5465486d4ff86bf74113a048addd8a.js",
+    "service-worker.js": "/kNews-react/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/kNews-react/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.de7ce26e.chunk.css.map": "/kNews-react/static/css/main.de7ce26e.chunk.css.map",
+    "static/js/2.29be7b45.chunk.js.LICENSE": "/kNews-react/static/js/2.29be7b45.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03fca22e.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.29be7b45.chunk.js",
+    "static/css/main.de7ce26e.chunk.css",
+    "static/js/main.d2ed5841.chunk.js"
+  ]
+}
